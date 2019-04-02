@@ -9,9 +9,9 @@
     y =35 +  78- x
     print x+    78 -23
 
-    # See on kommentaar
+    # This is a comment
     print y
-    y = y + 1 # kirjutame muutujasse uue väärtuse
+    y = y + 1 # Changing the variable
     print y
 
     (end of file)
