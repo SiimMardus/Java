@@ -1,4 +1,4 @@
-Object orientated programming course project.
+### Object orientated programming course project.
 
 Game website: https://faitnait.weebly.com/
 
